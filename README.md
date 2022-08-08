@@ -1,2 +1,2 @@
 # arkiver
-Create any local / cloud snapshot of any website / github repo (ripoff of waybach machine)
+Create any local / cloud snapshot of any website (ripoff of waybach machine)
